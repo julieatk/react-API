@@ -5,8 +5,9 @@ import './App.css'
 import Home from './Home';
 
 function App() {
+  //app title and render home component
   return (
-    <div ClassName ="App">
+    <div className ="App">
       <h2> React JSON</h2>
       <Home/>
 
